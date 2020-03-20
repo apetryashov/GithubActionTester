@@ -1,0 +1,8 @@
+C:\workspace\MyProjects\GithubActionsTestProject\GithubActionsTestProject\bin\Debug\netcoreapp3.1\GithubActionsTestProject.deps.json
+C:\workspace\MyProjects\GithubActionsTestProject\GithubActionsTestProject\bin\Debug\netcoreapp3.1\GithubActionsTestProject.dll
+C:\workspace\MyProjects\GithubActionsTestProject\GithubActionsTestProject\bin\Debug\netcoreapp3.1\GithubActionsTestProject.pdb
+C:\workspace\MyProjects\GithubActionsTestProject\GithubActionsTestProject\obj\Debug\netcoreapp3.1\GithubActionsTestProject.csprojAssemblyReference.cache
+C:\workspace\MyProjects\GithubActionsTestProject\GithubActionsTestProject\obj\Debug\netcoreapp3.1\GithubActionsTestProject.AssemblyInfoInputs.cache
+C:\workspace\MyProjects\GithubActionsTestProject\GithubActionsTestProject\obj\Debug\netcoreapp3.1\GithubActionsTestProject.AssemblyInfo.cs
+C:\workspace\MyProjects\GithubActionsTestProject\GithubActionsTestProject\obj\Debug\netcoreapp3.1\GithubActionsTestProject.dll
+C:\workspace\MyProjects\GithubActionsTestProject\GithubActionsTestProject\obj\Debug\netcoreapp3.1\GithubActionsTestProject.pdb
